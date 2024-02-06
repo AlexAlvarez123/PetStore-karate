@@ -1,0 +1,4 @@
+* Conclusiones *
+
+1. Karate Framework a comparación de REST resulta ser mas efectivo en cuando a cantidad de código y practicidad
+2. La visualización del reporte de karate es bastante detallado y facil de entender
